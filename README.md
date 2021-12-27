@@ -27,4 +27,4 @@ Download code from GitHub(basically here), then just start and have fun!, Happy 
 //
 # Info and update log can be seen by writing command "info" or "update" or "log" inside the game.
 
-Use website https://github.com/Nikegamerjjjj/cooking-game/issues to send issues, bugs and problems you find inside the game. Use also https://github.com/Nikegamerjjjj/cooking-game/discussions for ideas and such.
+Use website https://github.com/Nikegamerjjjj/py-rpg/issues to send issues, bugs and problems you find inside the game. Use also https://github.com/Nikegamerjjjj/py-rpg/discussions for ideas and such.
